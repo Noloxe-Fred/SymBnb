@@ -242,6 +242,6 @@ class __TwigTemplate_bba37f563a5e776d38bf009e5eb5758fe244c8d7e87958a2d3f9274361d
         {% block javascripts %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/var/www/html/Symfony/udemy/SymBNB/symbnb/templates/base.html.twig");
+", "base.html.twig", "/var/www/html/Symfony/udemy/SymBNB/SymBnb/templates/base.html.twig");
     }
 }
